@@ -1,4 +1,4 @@
-#DumbSophomores Catastrophe Client
+# DumbSophomores Catastrophe Client
 
 If siggame is still hosting the server, join a match called MATCH_NAME with
 ```
